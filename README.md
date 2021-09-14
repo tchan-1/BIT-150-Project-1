@@ -1,5 +1,4 @@
 # Project 1
-[TOC]
 
 # Introduction
 I studied the EMSY gene, or known fully as EMSY transcriptional repressor, BRCA2 interacting. This gene acts a repressor and is also involved in DNA repair, organizing chromatin, and regulating [transcription](https://rgd.mcw.edu/rgdweb/report/gene/main.html?id=1345109). I chose this specific gene because I read [several](https://www.sciencedirect.com/science/article/pii/S0091674917315749#sec1) [studies](https://www.sciencedirect.com/science/article/pii/S1323893019301595) that show a link between EMSY and different types of allergies, namely atopic dermatitis and peanut/food allergies. One study shows that the EMSY gene is risk locus for peanut allergy and other food allergies, while another study found that overexpression of the EMSY gene is a factor in developing atopic dermatitis. One type of data I searched for was gene expression, since the expression levels of this gene play a major factor in whether or not a person suffers from the allergies mentioned above. Another type of data I searched for was common mutations in the gene’s sequence, to see how and which variations affected the gene’s expression.
